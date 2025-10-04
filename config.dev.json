@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝗬𝗼𝘂'𝗿-𝗔𝗿𝗶𝘆𝗮𝗻",
+  "nickNameBot": "𝗔𝗿𝗶𝘆𝗮",
   "prefix": "-",
   "api": "https://www.noobs-api.rf.gd/dipto",
   "approval": false,
@@ -32,8 +32,8 @@
   },
   "adminBot": [
     "61560460841809",
-    "61578264315437",
-    "100084679764664"
+    "61555684206722",
+    "61578264315437"
   ],
   "mainAdmin": [
     "61560460841809"
